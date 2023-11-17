@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h1 align="center">Hello there, I'm Sean</h1>
+<h3 align="center">Welcome to my GitHub</h3>
+
+- 🔭 I’m currently working on **my portfolio**
+
+- 🌱 I’m currently learning **full-stack development**
 
 - 👨‍💻 All of my projects are available at [https://swbriski-web-portfolio.onrender.com/](https://swbriski-web-portfolio.onrender.com/)
 
