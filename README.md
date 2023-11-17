@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm Sean</h1>
 <h3 align="center">Welcome to my GitHub</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 💼 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **full-stack development**
+- 🍎 I’m currently learning **full-stack development**
 
-- 👨‍💻 All of my projects are available at [https://swbriski-web-portfolio.onrender.com/](https://swbriski-web-portfolio.onrender.com/)
+- 📝 All of my projects are available at [https://swbriski-web-portfolio.onrender.com/](https://swbriski-web-portfolio.onrender.com/)
 
 - 📫 How to reach me **swbriski@gmail.com**
 
