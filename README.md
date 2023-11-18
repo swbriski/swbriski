@@ -3,7 +3,7 @@
 
 - 💼 I’m currently working on **my portfolio**
 
-- 🍎 I’m currently learning **full-stack development**
+- 🍎 I’m currently learning **full-stack web development**
 
 - 📝 All of my projects are available at [https://swbriski-web-portfolio.onrender.com/](https://swbriski-web-portfolio.onrender.com/)
 
